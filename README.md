@@ -1,10 +1,10 @@
 
-[![Pathfinding-visualizer](./public/styling/logo.png)](https://pathfinding-visualizer-9474.web.app)
+[![Pathfinding-visualizer](./public/styling/logo.png)](https://pathfinding-visualizer-9474.onrender.com)
 # Pathfinding Visualizer
 
 Fascinated with DS and various pathfinding algorithms pertaining to graphs?!!
 
-Well, welcome to the Pathfinding Visualizer! This application was created out of my fascination with various pathfinding algorithms and the desire to provide a dynamic visualization of their functionality. I hope you find as much enjoyment in exploring and interacting with this visualization tool as I did when developing it. To experience it firsthand, please access the Pathfinding Visualizer [here](https://pathfinding-visualizer-9474.web.app) (we recommend using Google Chrome for the best experience):
+Well, welcome to the Pathfinding Visualizer! This application was created out of my fascination with various pathfinding algorithms and the desire to provide a dynamic visualization of their functionality. I hope you find as much enjoyment in exploring and interacting with this visualization tool as I did when developing it. To experience it firsthand, please access the Pathfinding Visualizer [here](https://pathfinding-visualizer-9474.onrender.com) (we recommend using Google Chrome for the best experience):
 
 This web application provides a visual representation of various pathfinding algorithms, allowing users to observe how different algorithms work and understand their efficiency. The following algorithms are visualized in this application:
 
@@ -41,7 +41,7 @@ It, on the other hand, centers around a single swarm moving toward a common foca
 Besides these algorithms for pathfinding, we have also implemented multiple maze generation algorithms.
 ## Getting Started
 
-To get started with the Pathfinding Visualizer, simply visit the [web page](https://pathfinding-visualizer-9474.web.app) hosted on Firebase.
+To get started with the Pathfinding Visualizer, simply visit the [web page](https://pathfinding-visualizer-9474.onrender.com) hosted on Firebase.
 
 ### Prerequisites
 
@@ -49,7 +49,7 @@ You don't need to install anything to use the Pathfinding Visualizer. Ensure you
 
 ## Usage
 
-1. Visit the [Pathfinding Visualizer](https://pathfinding-visualizer-9474.web.app) website.
+1. Visit the [Pathfinding Visualizer](https://pathfinding-visualizer-9474.onrender.com) website.
 2. Choose a pathfinding algorithm from the dropdown menu.
 3. You may generate your own blocks or use the maze generator to create maze or both.
 4. Also you may add bombs to give certain node more weights.
